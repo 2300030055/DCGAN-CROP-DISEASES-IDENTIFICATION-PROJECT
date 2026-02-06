@@ -1,0 +1,7 @@
+image_size: 64
+channels: 3
+data_root: "../Data/Real/Train"
+classes:
+  - healthy
+  - rust
+  - blight

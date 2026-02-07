@@ -24,11 +24,7 @@ Agricultural disease datasets are often highly imbalanced, with many healthy lea
 
 The project uses publicly available multi-crop leaf disease image datasets containing **RGB images** of healthy and diseased leaves across different crops such as:
 
-- Tomato  
-- Potato  
-- Grape  
-- Maize  
-- Wheat  
+- https://www.kaggle.com/datasets/emmarex/plantdisease
 
 Images are resized and normalized for GAN training.
 

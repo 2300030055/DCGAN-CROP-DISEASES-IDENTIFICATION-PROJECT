@@ -1,4 +1,4 @@
-# Synthetic Crop Leaf Disease Image Generation using DCGAN
+# Project-3 Synthetic Crop Leaf Disease Image Generation using DCGAN
 
 ---
 
